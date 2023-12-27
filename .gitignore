@@ -1,0 +1,5 @@
+myvenv
+myvenv/
+.env
+.vercel
+.git-old/
